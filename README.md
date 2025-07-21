@@ -1,4 +1,4 @@
 # docker-learning
 
-I will be using this repository to showcase me learning of Docker
+I will be using this repository to showcase my learning of Docker
 and containerisation!
